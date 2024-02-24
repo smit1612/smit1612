@@ -12,7 +12,7 @@ I'm Smit Patel, a passionate computer science student at York University with a 
   - Diploma in Computer Systems Technician
 
 ## Skills 👨‍💻
-![Java][java-badge] ![JavaScript][javascript-badge] ![HTML5][html5-badge] ![CSS][css3-badge] ![Python][python-badge] ![SQL][sql-badge] ![Git][git-badge] ![React.js][react-badge] [![GitHub][github-badge]][github-url] 
+![Java][java-badge] ![JavaScript][javascript-badge] ![HTML5][html5-badge] ![CSS][css3-badge] ![Python][python-badge] ![React.js][react-badge] ![SQL][sql-badge] ![Git][git-badge] [![GitHub][github-badge]][github-url] ![Assembly (RISC-V)][assembly-badge] 
 
 
 ## Projects 🛠️
@@ -35,10 +35,11 @@ Feel free to reach out for collaboration opportunities, tech discussions, or jus
 [react-badge]: https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white
 [javascript-badge]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 [python-badge]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-[sql-badge]: https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white
+[sql-badge]: https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
 [git-badge]: https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
 [html5-badge]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 [css3-badge]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[assembly-badge]: https://img.shields.io/badge/Assembly(RISC_V)-grey?style=for-the-badge&logo=riscv&logoColor=white
 [github-badge]: https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github
 
 [github-url]: https://github.com/smit1612
