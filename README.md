@@ -33,13 +33,13 @@ I'm Smit Patel, a passionate computer science student at York University with a 
 
 
 ## Projects 🛠️
-- **Random Number Memorization Game**  [🔗](https://github.com/smit1612/Random-Number-Memorization-Game) <br> 
-Dynamic memorization game developed using HTML/CSS/JS with random number generator, real-time feedback, and JUnit tested <br>
+- **MemoryBlitz - Competition Winner**  [🔗](https://github.com/smit1612/MemoryBlitz) <br> 
+Dynamic number memorization game developed using HTML/CSS/JS with random number generator, real-time feedback, error detection algorithm and JUnit tested <br>
 
 - **ATM Database Portal** [🔗](https://github.com/smit1612/ATM-Database-Portal) <br>
 Developed in Java and MySQL, featuring a user-friendly interface, Object-Oriented Programming principles, and secure data management. <br>
 
-- **SecureServe-Network-and-Server-Design** [🔗](https://github.com/smit1612/SecureServe-Network-and-Server-Design) <br>
+- **SecureServe Network and Server Design** [🔗](https://github.com/smit1612/SecureServe-Network-and-Server-Design) <br>
 Design network and server infrastructure, including IPv4/IPv6 addressing, DHCP servers, routing protocols, and strong security measures <br>
 
 ## Let's Connect! 🤝
