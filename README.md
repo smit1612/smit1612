@@ -36,7 +36,7 @@ I'm Smit Patel, a passionate computer science student at York University with a 
 - **MemoryBlitz - Competition Winner**  [🔗](https://github.com/smit1612/MemoryBlitz) <br> 
 Dynamic number memorization game developed using HTML/CSS/JS with random number generator, real-time feedback, error detection algorithm and JUnit tested <br>
 
-- **ATM Database Portal** [🔗](https://github.com/smit1612/ATM-Database-Portal) <br>
+- **MoneyMover: ATM Database System** [🔗](https://github.com/smit1612/MoneyMover-ATM-Database-System) <br>
 Developed in Java and MySQL, featuring a user-friendly interface, Object-Oriented Programming principles, and secure data management. <br>
 
 - **SecureServe Network and Server Design** [🔗](https://github.com/smit1612/SecureServe-Network-and-Server-Design) <br>
